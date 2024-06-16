@@ -2,6 +2,7 @@
 
 ![AITomate](tomate.png)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-hkiuVaWwbY?si=_9lvvgQti4krj1Ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Descripción General
 
 **AI TOMATE** es un proyecto que utiliza inteligencia artificial para la identificación temprana de enfermedades en plantas de tomate. Este proyecto se basa en el uso de visión por computadora y técnicas de aprendizaje automático para analizar imágenes de plantas tomateras y diagnosticar posibles enfermedades. El sistema se compone de una aplicación web para la captura de imágenes, una API para el procesamiento de las imágenes y una red neuronal para la detección de enfermedades, ademas incluimos un LLM para ayudar obtener mayor descripcion de la planta afectada.
