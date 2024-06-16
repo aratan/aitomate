@@ -14,13 +14,17 @@ Visión General del Proyecto
 
 El objetivo principal de AI TOMATE es la identificación temprana de enfermedades en las plantas de tomate. Para lograr esto, el proyecto utiliza una combinación de visión por computadora y técnicas de aprendizaje automático para analizar imágenes de plantas de tomate y diagnosticar posibles enfermedades.
 
-El sistema se compone de varios componentes clave:
+## El sistema se compone de varios componentes clave:
 
 Aplicación web para la captura de imágenes: Esta aplicación permite a los usuarios capturar y subir imágenes de sus plantas de tomate para su análisis.
-API para el procesamiento de imágenes: Una vez que las imágenes son capturadas, son procesadas a través de esta API, que utiliza algoritmos avanzados de visión por computadora para analizar las imágenes.
-Red neuronal para la detección de enfermedades: Las imágenes procesadas son luego analizadas por una red neuronal, que ha sido entrenada para detectar una variedad de enfermedades comunes en las plantas de tomate.
-LLM (Lifelong Learning Machines): Este componente se utiliza para obtener una descripción más detallada de la planta afectada, permitiendo un diagnóstico más preciso y una intervención más temprana.
-AI TOMATE representa un avance significativo en la agricultura del futuro. Al combinar la tecnología de drones con la inteligencia artificial, este proyecto ofrece una solución innovadora y eficaz para el cuidado y la protección de las plantas de tomate. Con AI TOMATE, el futuro de la agricultura es más brillante y más sostenible que nunca.
+
+## API para el procesamiento de imágenes: Una vez que las imágenes son capturadas, son procesadas a través de esta API, que utiliza algoritmos avanzados de visión por computadora para analizar las imágenes.
+
+## Red neuronal para la detección de enfermedades: Las imágenes procesadas son luego analizadas por una red neuronal, que ha sido entrenada para detectar una variedad de enfermedades comunes en las plantas de tomate.
+
+### LLM (Lifelong Learning Machines): Este componente se utiliza para obtener una descripción más detallada de la planta afectada, permitiendo un diagnóstico más preciso y una intervención más temprana.
+
+## AI TOMATE representa un avance significativo en la agricultura del futuro. Al combinar la tecnología de drones con la inteligencia artificial, este proyecto ofrece una solución innovadora y eficaz para el cuidado y la protección de las plantas de tomate. Con AI TOMATE, el futuro de la agricultura es más brillante y más sostenible que nunca.
 
 ## Instalación
 
